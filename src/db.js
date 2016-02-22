@@ -566,4 +566,4 @@
     } else {
         window.db = db;
     }
-})(window);
+})(this);
