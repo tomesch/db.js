@@ -675,5 +675,5 @@ function _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr
     } else {
         window.db = db;
     }
-})(window);
+})(self);
 //# sourceMappingURL=db.js.map
